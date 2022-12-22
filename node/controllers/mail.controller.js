@@ -8,13 +8,13 @@ const enviarMail = async function (destinatario, motivo){
         service: 'gmail',
         host: 'smtp.gmail.com',
         auth: {
-            user: 'bottesteador@gmail.com',
-            pass: 'kfzcxmbhlyqwtuka'
+            user: 'debe poner un mail',
+            pass: ''
         }
     });
     // Definimos el email
     var mailOptions = {
-        from: 'bottesteador@gmail.com',
+        from: 'debe poner un mail',
         to: destinatario,
         subject: 'Comentario rechazado por el profesor',
         html: '<h3><u>IMPORTANTE:</u></h3><p>Tenga en cuenta que este correo electrónico se envía automáticamente desde un buzón automático que <b>NO</b> acepta respuestas.</p><br></br><h4><b>Su contratacion fue rechazada por no poder ajustarse a los requisitos del profesor.</b></h4><br></br><p>MOTIVO: </p>' + motivo,
