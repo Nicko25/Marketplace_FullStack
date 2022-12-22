@@ -22,3 +22,5 @@ https://docs.google.com/document/d/1pVnkrGIqm_zE70EweRZmKgVPKHFtB6_w/edit#headin
 - API-Market-Clases.postman_collection.json
 
 ## Ejemplo
+
+![main](https://github.com/Nicko25/Marketplace_FullStack/blob/main/imagenes%20de%20la%20app/chrome_f3pU8LhEgy.png)
