@@ -118,16 +118,13 @@ export default function Footer() {
       <Right>
         <Title>Contact</Title>
         <ContactItem>
-          <Room style={{marginRight:"10px"}}/> Universidad UADE , South Tobinchester 98336
+          <Room style={{marginRight:"10px"}}/> Algun lugar , Direccion de algun lugar 123456
         </ContactItem>
         <ContactItem>
           <Phone style={{marginRight:"10px"}}/> +1 234 56 78
         </ContactItem>
         <ContactItem>
-          <MailOutline style={{marginRight:"10px"}} /> nmenendez@uade.edu.ar
-        </ContactItem>
-        <ContactItem>
-          <MailOutline style={{marginRight:"10px"}} /> @uade.edu.ar
+          <MailOutline style={{marginRight:"10px"}} /> nmenendez2529@gmail.com
         </ContactItem>
         <Payment src="https://i.ibb.co/Qfvn4z6/payment.png" />
       </Right>
