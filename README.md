@@ -8,7 +8,7 @@ Posee:
 
 
 
-## Cómo correrlo
+## Cómo iniciarlo
 
 Parados en la carpeta node:
 '''
